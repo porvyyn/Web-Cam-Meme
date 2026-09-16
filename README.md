@@ -64,7 +64,8 @@ webcam-zoom/
 │   ├── sigma-amba.jpg
 │   └── indian-men.jpg
 ├── app.py
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 
